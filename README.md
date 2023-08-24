@@ -3,7 +3,10 @@
 <h3 align="center">A passionate Frontend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arpitruh/Arpitruh/blob/main/gf.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishjahan&label=Profile%20views&color=0e75b6&style=flat" alt="aishjahan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishjahan&label=Profile%20views&color=0e75b6&style=flat" alt="arpityadav" /> </p>
+<p align="left"> <a href="https://twitter.com/the_lost___soul" target="blank"><img src="https://img.shields.io/twitter/follow/aishjahan?logo=twitter&style=for-the-badge" alt="aishjahan" /></a> </p>
+
+
 
 
 - 🔭 I’m currently Studying **Full Stack Development**
