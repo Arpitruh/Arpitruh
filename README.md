@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CSS, JS, Reactjs, Nodejs, BootStrap**
 
-- 👨‍💻 All of my projects are available at [https://arpity.netlify.app](https://arpity.netlify.app)
+- 👨‍💻 My Portfolio  [https://arpity.netlify.app](https://arpity.netlify.app)
 
 - 📫 How to reach me **arpitruh112@bbdu.ac.in**
 
@@ -23,8 +23,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arpitruh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arpitruh" /></a><a href="https://ko-fi.com/arpitruh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arpitruh" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitruh&show_icons=true&locale=en&layout=compact" alt="arpitruh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitruh&show_icons=true&locale=en" alt="arpitruh" /></p>
 
