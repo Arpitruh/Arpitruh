@@ -1,4 +1,4 @@
-![logo](https://github.com/Arpitruh/Arpitruh/blob/main/ss.png )
+![logo](https://github.com/Arpitruh/Arpitruh/blob/main/ghg%20(1).png)
 <h1 align="center">Hi 👋, I'm Arpit Yadav</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
