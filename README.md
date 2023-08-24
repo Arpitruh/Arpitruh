@@ -1,8 +1,8 @@
-![logo](https://github.com/Arpitruh/Arpitruh/blob/main/ss.png)
+![logo](https://github.com/Arpitruh/Arpitruh/blob/main/ss.png )
 <h1 align="center">Hi 👋, I'm Arpit Yadav</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Arpitruh/Arpitruh/blob/main/gf.gif"
+<img align="right" alt="coding" width="400" src="https://github.com/Arpitruh/Arpitruh/blob/main/gf.gif"/>
 
 - 🔭 I’m currently Studying **Full Stack Development**
 
