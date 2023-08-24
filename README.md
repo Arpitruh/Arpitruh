@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Frontend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arpitruh/Arpitruh/blob/main/gf.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishjahan&label=Profile%20views&color=0e75b6&style=flat" alt="aishjahan" /> </p>
+
 
 - 🔭 I’m currently Studying **Full Stack Development**
 
