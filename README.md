@@ -15,7 +15,7 @@
 
 - 👨‍💻 My Portfolio  [https://arpity.netlify.app](https://arpity.netlify.app)
 
-- 📫 How to reach me **arpitruh112@bbdu.ac.in**
+- 📫 How to reach me **arpitruh112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
