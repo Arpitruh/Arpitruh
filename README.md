@@ -1,3 +1,22 @@
+# Arpit Yadav — Software Engineer | Full Stack Development
+
+I build enterprise dashboards, full-stack web applications and reusable backend services with React, Next.js, TypeScript, Node.js and PostgreSQL.
+
+### Featured engineering projects
+
+| Project | Focus |
+| --- | --- |
+| [LeadLoop CRM](https://github.com/Arpitruh/LeadLoop-CRM) | Multi-tenant CRM, sales pipelines and lead management |
+| [OpenJobPulse](https://github.com/Arpitruh/open-job-pulse) | AI-assisted job discovery and application management |
+| [CacheLoom](https://github.com/Arpitruh/CacheLoom) | Experimental key-value cache and durable background job queue |
+| [Auth Service](https://github.com/Arpitruh/Auth-Service) | Authentication, session management and application isolation |
+| [Notification Service](https://github.com/Arpitruh/Notification-Service) | Templated email and asynchronous notification processing |
+| [Personal Portfolio](https://github.com/Arpitruh/Personal_Portfolio) | Interactive developer portfolio and project case studies |
+
+Technical interests: SaaS architecture, REST APIs, system design, Docker, CI/CD and web performance.
+
+---
+
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=250&color=0:f72585,40:7209b7,100:4361ee&text=Arpit%20Yadav&fontAlign=70&fontAlignY=50&fontSize=65&fontColor=fff&desc=Software%20Engineer%20%7C%20React%20%2F%20Next.js%20%7C%20Node.js&descAlign=70&descAlignY=68&descSize=18"/>
 
